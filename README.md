@@ -3,5 +3,7 @@
 I achieved the following goals in this project:
 
 •	Studied the data over one million rows using SQL to analyze customer flows, funnels, activation, retention <br>
-•	Used Python to visualize user behaviors and study key performance indicators to improve the conversion rate
+•	Used Python to visualize user behaviors and study key performance indicators to improve the conversion rate <br>
+
+The original dataset is from Taobaocan and be downloaded from [here](https://tianchi.aliyun.com/dataset/dataDetail?dataId=649&userId=1)
 
